@@ -19,7 +19,7 @@ Usage: ``bash compile.sh``
 
 
 ## secure-boot.sh
-Secure boot must be disabled otherwise unsigned kernel cannot be booted. This script will help you to disable secure boot via MOK (Machine Owner Key). Read [more](https://www.rodsbooks.com/efi-bootloaders/secureboot.html#mokutil)
+Secure boot must be disabled otherwise unsigned kernel cannot be booted. This script will help you to disable secure boot via MOK (Machine Owner Key). Read [more](https://www.rodsbooks.com/efi-bootloaders/secureboot.html#mokutil) </br>
 Usage: ``bash secure-boot.sh``
 
 
