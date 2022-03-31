@@ -13,14 +13,14 @@ Both scripts help with the configuration of email. </br>
 Usage: ``bash mutt_setup.sh``
 
 
-## compile.sh
-Help with compilation and installation of kernel. Run this file in the same folder with make rules file. Also, the .config file required in order to run. </br>
-Usage: ``bash compile.sh``
-
-
 ## secure-boot.sh
 Secure boot must be disabled otherwise unsigned kernel cannot be booted. This script will help you to disable secure boot via MOK (Machine Owner Key). Read [more](https://www.rodsbooks.com/efi-bootloaders/secureboot.html#mokutil) </br>
 Usage: ``bash secure-boot.sh``
+
+
+## compile.sh
+Help with compilation and installation of kernel. Run this file in the same folder with make rules file. Also, the .config file required in order to run. </br>
+Usage: ``bash compile.sh``
 
 
 ## Courses and Links
