@@ -1,4 +1,4 @@
-# Rookies-in-Linux-Kernel
+# Linux Kernel Rookies
 A repository to help people with Linux Kernel Development. 
 
 
