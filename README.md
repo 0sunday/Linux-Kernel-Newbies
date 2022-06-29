@@ -23,7 +23,7 @@ Help with compilation and installation of kernel. Run this file in the same fold
 Usage: ``bash compile.sh``
 
 
-## Courses and Links
+## Library
 - https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/ (Course)
 - https://0xax.gitbooks.io/linux-insides/content/
 - [Linux From Scratch Book](https://www.linuxfromscratch.org/lfs/download.html)
