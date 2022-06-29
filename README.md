@@ -1,5 +1,5 @@
 # Linux Kernel Newbies
-A repository to help people with Linux Kernel Development. 
+A repository to help people with Linux Kernel Development. Please note that I am a newbie as well :)
 
 
 ## check.sh - created by [umegbewe](https://github.com/umegbewe)
